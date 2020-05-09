@@ -24,7 +24,11 @@ VerifyCsrfToken Middleware:
     protected $except = [
         'route/*',
     ];
+    
+## Laravel Project Link 
+https://github.com/monsur22/Laravel-React-Api-CRUD
 ## This link also for help Crud Operation
 
 
 https://www.positronx.io/react-mern-stack-crud-app-tutorial/
+
